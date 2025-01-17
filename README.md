@@ -101,4 +101,4 @@ This project is licensed under the MIT License.
 ## Author
 
 **Robert J.D. Reid**  
-Feel free to contact me for questions or feature requests
+For questions or feature requests please open an issue
